@@ -12,7 +12,10 @@ Design a Calculator App which has normal calculator functionality.
 
 ## Requirement:
 
-```complete me```
+A simple front end harness as either a basic html-based application (say javascript or php, etc) or a
+script that uses CURL (or similar) to make and accept requests from your server.
+The server should support GET, POST, PUT and DEL as you see fit. The server should be reliable
+and fault tolerant.
 
 
 ## Assumption:
