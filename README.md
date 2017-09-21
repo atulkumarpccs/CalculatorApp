@@ -1,11 +1,11 @@
-# Assignment
+# Assignment:
 Developing a few classes with C++ to model a `CALCULATOR APP`
 
-## Coding Guidlines
+## Coding Guidlines:
 <https://google.github.io/styleguide/cppguide.html#C++11>
 
 
-## Use Case:
+## Use Case :
  
 Design a Calculator App which has normal calculator functionality.
 
@@ -35,7 +35,11 @@ In future HMI/Graphical user interfce is developed in the `Qt` for  supporting c
 ## Refrence Resource 
 
 <https://www.youtube.com/watch?v=FhV1ZEVNK08>
+
 <https://www.codeproject.com/Tips/631525/Creating-Calculator-using-HTML-CSS-and-JavaScript>
+
 <http://www.wikihow.com/Create-a-Calculator-Using-HTML>
+
 <http://c2serve.codeva.de/c2s-htdocs/what_is_rest.html>
+
 <http://doc.qt.io/qt-5/qtwidgets-widgets-calculator-example.html>
