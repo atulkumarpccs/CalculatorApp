@@ -34,6 +34,15 @@ In future HMI/Graphical user interfce is developed in the `Qt` for  supporting c
 
 <https://github.com/atulkumarpccs/CalculatorApp/issues>
 
+
+## Building the Calculater App :
+
+* Step 1. Download the repository  `fron github` if don't have acess ask for ```access```
+* Step 2. Go to the directory path CalculatorApp/HMI/Refrence/Screen.html
+* Step 3. open the file in HTML  support editor(Preferly Nodepad++).
+* Step 4. If Editor is Notpad++ press `Run Tab`  
+
+
 ## Refrence Resource 
 
 <https://www.youtube.com/watch?v=FhV1ZEVNK08>
