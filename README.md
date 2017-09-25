@@ -30,9 +30,6 @@ and fault tolerant.
 
 ## Known Issues :
 This is first initial version `as per requirement document` so the new` feature` would be added in future.
-On some places constructer has been invoked and some places uniform initialization has been invoked.
-In place of `pragma once` ``header gaurd`` are used for older compiler support.
-
 In future HMI/Graphical user interfce is developed in the `Qt` for  supporting crosss platfrom compatibility.
 
 ## Refrence Resource 
